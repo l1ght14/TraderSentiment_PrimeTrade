@@ -13,7 +13,7 @@ This repository contains the completed assignment for the Junior Data Scientist 
 
 ## How to View and Run the Analysis:
 
-1. **View Online:** The Jupyter Notebook (`[Your_Notebook_Name].ipynb`) can be viewed directly on GitHub.
+1. **View Online:** The Jupyter Notebook (`Trader_Sentiment_Analysis.ipynb`) can be viewed directly on GitHub.
 2. **Run Locally:**
     * Clone or download this repository.
     * Ensure you have Python 3 installed along with the following libraries:
