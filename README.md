@@ -36,7 +36,7 @@ This repository contains the completed assignment for the Junior Data Scientist 
         jupyter notebook
         ```
 
-    * Open the `[Your_Notebook_Name].ipynb` file from the Jupyter dashboard.
+    * Open the `Trader_Sentiment_Analysis.ipynb` file from the Jupyter dashboard.
     * Ensure the CSV data files (`fear_greed_index.csv` and `historical_data.csv`) are in the same directory as the notebook for the code to run correctly.
 
 ## Summary of Findings:
